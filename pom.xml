@@ -22,12 +22,12 @@
   <repository>
      <id>deployment</id>
      <name>Releases</name>
-     <url>http://localhost:9000/nexus-2.11.4-01/content/repositories/releases/</url>
+     <url>http://192.168.89.129:9000/nexus-2.11.4-01/content/repositories/releases/</url>
   </repository>
   <snapshotRepository>
      <id>deployment</id>
      <name>snapshot</name>
-     <url>http://localhost:9000/nexus-2.11.4-01/content/repositories/snapshots/</url>
+     <url>http://192.168.89.129:9000/nexus-2.11.4-01/content/repositories/snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
